@@ -1,0 +1,3 @@
+
+This is the first line in a text file, reason of which is to learn and experiment with Git
+
