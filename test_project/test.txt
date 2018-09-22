@@ -1,0 +1,5 @@
+
+This is the first line in a text file, reason of which is to learn and experiment with Git
+This is the second line in a text file, continued experimentation 
+This is the third line in a text file, trying to figure out what is going on 
+
